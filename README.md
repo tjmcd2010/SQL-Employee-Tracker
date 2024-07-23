@@ -16,11 +16,11 @@
 
   ## Screenshot of Deployed Application
 
-  ![View All Employees](View-All-Employees.png)
+  ![View All Employees](./Images/View-All-Employees.png)
   
-  ![Update Employee Manager](Update-Employee-Manager.png)
+  ![Update Employee Manager](./Images/Update-Employee-Manager.png)
 
-  ![View Employees by Department](View-Employees-By-Department.png)
+  ![View Employees by Department](./Images/View-Employees-By-Department.png)
   
   ## Table of Contents
   - [Installation](#installation)
